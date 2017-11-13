@@ -1,3 +1,6 @@
+# Exclude keynote to save space for the images
+*.key
+
 # Logs
 logs
 *.log
