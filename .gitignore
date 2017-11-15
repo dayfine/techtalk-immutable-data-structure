@@ -1,5 +1,6 @@
 # Exclude keynote to save space for the images
 *.key
+.DS_Store
 
 # Logs
 logs

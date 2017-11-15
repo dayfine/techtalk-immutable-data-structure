@@ -1,4 +1,4 @@
-## Opening Overview**
+** Opening Overview
 We are gonna talk about IDS, why should we care, how they are implemented, and how to use them in JavaScript
 
 # What the Is the Problem it tries to solve
@@ -11,7 +11,7 @@ We are gonna talk about IDS, why should we care, how they are implemented, and h
     - Do not mutate at all
   - Wouldn't It Be Big and Slow?
 
-#Here Enteres IDS: Implementation That Is Fast and Lean
+# Here Enteres IDS: Implementation That Is Fast and Lean
   - Performance Guarantee + All old ver, not just last one, no decay
   - Array - Vector
     - Here is tree / trie!
@@ -24,5 +24,3 @@ We are gonna talk about IDS, why should we care, how they are implemented, and h
 # Using Immutable.js, with React & more.
   - Syntax in Mori / Immutable
   - React Reconciliation
-
-# Closing Recap
